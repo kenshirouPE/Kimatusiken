@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\kenshirou\source\repos\kimatusiken\Main.cpp(148,25): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+C:\Users\kenshirou\source\repos\kimatusiken\Main.cpp(148,25): message : プレースホルダーとそのパラメーターには 4 の可変個引数が必要ですが、2 が指定されています。
+C:\Users\kenshirou\source\repos\kimatusiken\Main.cpp(148,25): message : 不足している可変個引数 3 が書式文字列 '%c' に必要です
+C:\Users\kenshirou\source\repos\kimatusiken\Main.cpp(148,25): message : この引数は変換指定子で使用されます
+  kimatusiken.vcxproj -> C:\Users\kenshirou\source\repos\kimatusiken\Debug\kimatusiken.exe
